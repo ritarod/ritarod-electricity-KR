@@ -1,3 +1,5 @@
 # ritarod-electricity-KR
 
-Use Iterative Proportional Fitting to disaggregate power data by hour.
+Apply Iterative Proportional Fitting to disaggregate power data by hour, using:
+1. Hourly predictions, all fuels aggregated.
+2. Monthly data, aggregated by fuel.
